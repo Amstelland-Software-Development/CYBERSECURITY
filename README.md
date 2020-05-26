@@ -19,13 +19,14 @@ Om van start te gaan moet je het volgende doen:
 
 3. Vul [dit microsoft forms formulier](https://forms.office.com/Pages/ResponsePage.aspx?id=RswIyUxVMUGGU0VSLmjikaRwSe8dqthLjsrnL5WPW8VUQVo2QkJNN0RMVVg2QkZBQUZURlo2Q1RZMi4u) in voor je verder gaat.
    > Je hebt hiervoor Certified Secure profiel ID nodig, die vindt je hier:
-   ![CC id](img/cc-id.jpg)  
+   ![CC id](https://github.com/ROC-van-Amsterdam-College-Amstelland/CYBERSECURITY/blob/master/img/cc-id.jpg)  
+   
 
 4. Begin met het downloaden en lezen van de handleiding!
 
 5. Als je een Module of Challenge op de Certified Secure website voor 100% hebt volbracht vink dan de bijbehorende taak af in Eagle.
    
-5. De onderstaande modules dienen voor **5 Juli 2020 23:59u 100%** te worden volbracht.
+6. De onderstaande modules dienen voor **5 Juli 2020 23:59u 100%** te worden volbracht.
 
 
 ## Modules & Challenges van Certified Secure
